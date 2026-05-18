@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "lankaagri-live",
+  "private_key_id": "5eba19e1c8c26cd1e53c0033f53e3093b909be24",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHYwdT8r7dKu9m\nYiLfsSouJlyYQMAZ2u0DTWBTSoCWmN+KiqX7vbLCPdRtMXWY1lwCWwZjErU8Pur6\nLzifcX2EUOHhcuPbZRqoOmhAmEGdERIjnxVR00JGM5rym6nEPTJVObBnnDZFMALL\nakJMw1o4DSN5X03CMDtcJ3ej+XME51y/f4/c0HO6lIlWRvyaMFV8ywxuXYteMXG0\nupzNiWmJS0IMxUerwC6HzrrfmpR+L1Ulw5KNCS4GWnUKD91sCNOZZeCy/1Aohx4p\nn6ETk1ILCjmQ8py9Ixntuk72CVr1NCQ+3ExH8MXyYVG6kkvFkNM3yoEtAzRmsl5k\nT9xFltPpAgMBAAECggEAFE+OK4sKzlTVVkSg8NCHT3Qw8oGGEBwxEKkNKu7n8m9Y\nNjCxf9dvIkJSJV1ocU1EyiijmewJ8j0mip3M0tEozBXBLMobU/oUoRZyEEJyTKG0\ni1RlQ5SVp7kSC6y3unnRasUZpzROgvXFExub7V3pDtSnzHFc5m8rXNPYaCe9A76v\ncPBg/yUSTRqOelR2XUFmeU7aiX+JjWSev7atASLy+zT5BVw1dOUat7hRtGj5eqVr\n2kxhcdvQaxPr4oHgksyE0EBLPzmT5kjdbQoOJa1yoD8pz9GhFceGUqj7QkDcXmRp\nBhtN4RL18LgrEIPzW1y7CzfcDBW6BJZieD2Ur3e4kQKBgQD8PIg+hk833mAT0Fld\nZhDBxYOvgskO2tmFYfxW+vhUEflxBGmwTgIXfnGBJsCpmkGvPqYrb3EneyNOx1KA\n/ODxN73O6AO82X1qX53ux959hMAVZE6fMaA0t30EUMfLyoBY9d5AIbbP1lCb57On\njMpvWxBHb6qQtR6WcyJnsilMHwKBgQDKXKBtbPkgKtvRhTOxPLjRu60QNtAJSPlH\na9gDkTn03aEbpE2tt9W55m3jzGG+k5i67WULJubugTt76PEWT6uA88pLLWynaFEw\n4OGESldoK2q7wg8sCxq+KxGoFiSfTQffIPI8wgib7m3SyY0LoToai8g2NsJlBhO9\nkIr8INVe9wKBgG/TalfF9dMADLpcEXJ98InnxjUGl5q1XeBri5MIWxXyjhMT8MNQ\nIk9GKI4onxvSHrLR5Ju3IYRubD3d0m8LLbLjkovrgtSz241QbNVS2Qnu07XoLY8Y\nUj1s58kFAz8PPQ2zm1/1UnYcPsqP069BlPH/fl0dXZIgKjprOuKcMwDjAoGBAKeg\nswPyESwkVJLq1DctJawW2vVjclE+scAIBZhu5KOCM8LCB9avQcwMpVreItnLSekO\nXXUvdHx9cNjjzVG+DUN0r043AppqP1dN8YG0U1NnI7MEvayuRijhZG7oaM3M8YhT\nslXCJX+FslO5waywkYEL6X1/PuiQcCnHYloYmKdhAoGBAIZijJbb+wu3cEuGArN0\nxIAsxlxlaBgpG6gM/PWlLrBkQ30ESV8KCZyTYRH7QhBY0HhDwN1YggqDLHcqMrcB\nKVoIjzjpQ+lUtzLRO0RmkTKOC8+Zm/IaJZbm94gyOtZeM+27zNGyAaOx1sUUWZ4J\nwaszC2y2sk5MBe5odj/gq/iZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@lankaagri-live.iam.gserviceaccount.com",
+  "client_id": "103347184697804793114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40lankaagri-live.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
+MrBea
